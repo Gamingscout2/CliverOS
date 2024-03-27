@@ -4,8 +4,9 @@
 #include <map>
 #include <cstdlib>
 
-// AUTHORS: Preston Parsons, Noah Rousseau, Ava Curby
-//GITHUB: TheGamingScout2, NoahR1024, transorsmth
+
+// AUTHORS: Preston Parsons, Noah Russeau, Ava Curby
+// GITHUB: TheGamingScout2, NoahR1024, transorsmth
 // CLIVER OS 
 //A Personal Project for the Prof
 
