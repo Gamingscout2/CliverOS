@@ -1,0 +1,1 @@
+g++ cliveros.cpp -o cliveros
