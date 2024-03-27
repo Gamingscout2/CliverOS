@@ -120,7 +120,7 @@ public class CLIVER_OS {
             System.out.println("Changes saved to '" + filename + "'.");
         } catch (IOException e) {
             System.out.println("Unable to save changes to text file.");
-            e.printStackTrace();
+            e.printStackTrace(); //e
         }
     }
 
